@@ -8,7 +8,7 @@ I am a Full-Stack developer interested in digital strategies and UX. 🤠
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,threejs)
 
 ## Framework (PHP/JS)
-![My Skills](https://skillicons.dev/icons?i=laravel,symfony,vuejs,react&perline=3)
+![My Skills](https://skillicons.dev/icons?i=laravel,symfony,vuejs,react&perline=2)
 
 <!--## Backend Development
 ![My Skills](https://skillicons.dev/icons?i=nodejs,sailsjs)-->
@@ -29,9 +29,7 @@ I am a Full-Stack developer interested in digital strategies and UX. 🤠
 ![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,npm,yarn,webpack,cypress,nodejs,esbuild)
 
 # GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizardcybob&show_icons=true&locale=en&layout=compact" alt="wizardcybob" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizardcybob&show_icons=true&locale=en&layout=compact" alt="wizardcybob" /></p>
 
 # Socials networks
 <a href="https://linkedin.com/in/chloé-jacob-wizardcybob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chloé-jacob-wizardcybob" height="30" width="40" /></a>
