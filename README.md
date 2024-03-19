@@ -6,34 +6,37 @@
 [![My Skills](https://skillicons.dev/icons?i=php,js,typescript)]
 
 ### Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,vuejs,react,webpack)]
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,vuejs,react,webpack)
+
+### JavaScript Library
+![My Skills](https://skillicons.dev/icons?i=threejs)
 
 ### Framework
-[![My Skills](https://skillicons.dev/icons?i=laravel,symfony)]
+![My Skills](https://skillicons.dev/icons?i=laravel,symfony)
 
 ### Backend Development
-[![My Skills](https://skillicons.dev/icons?i=nodejs)]
+![My Skills](https://skillicons.dev/icons?i=nodejs)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mariadb)]
+![My Skills](https://skillicons.dev/icons?i=mysql,mariadb)
 
 ### Data Visualization
-[![My Skills](https://skillicons.dev/icons?i=d3js,chartjs)]
+![My Skills](https://skillicons.dev/icons?i=d3,chartjs)
 
 ### Testing
-[![My Skills](https://skillicons.dev/icons?i=cypress)]
+![My Skills](https://skillicons.dev/icons?i=cypress)
 
 ### Software
-[![My Skills](https://skillicons.dev/icons?i=figma,illustrator,photoshop,lightroom,aftereffect,premierepro,xd,blender,postman)]
+![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,gitlab,blender,unity,notion,vscode,phpstorm)
 
-### Game Engines
-[![My Skills](https://skillicons.dev/icons?i=unity)]
+### Adobe Creative Suite
+![My Skills](https://skillicons.dev/icons?i=illustrator,ps,lg,ae,premierepro,xd)
 
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=linux)]
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,npm,yarn)
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizardcybob&show_icons=true&locale=en&layout=compact" alt="wizardcybob" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizardcybob&show_icons=true&locale=en&layout=compact" alt="wizardcybob" />
 
 
