@@ -14,7 +14,7 @@ I am a Full-Stack developer interested in digital strategies and UX. 🤠
 ![My Skills](https://skillicons.dev/icons?i=nodejs,sailsjs)-->
 
 ## Database
-![My Skills](https://skillicons.dev/icons?i=mysql) <a style="background:white;" href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+![My Skills](https://skillicons.dev/icons?i=mysql,sqlite) <a style="background:white;" href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
 
 ## Data Visualization
 ![My Skills](https://skillicons.dev/icons?i=d3,chartjs)
