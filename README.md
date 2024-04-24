@@ -1,5 +1,6 @@
 ## Hi 👋👋👋
-I am a Full-Stack developer interested in digital strategies and UX. 🤠
+I am a developer interested in digital strategies and UX. 🤠
+Below you will find some technologies that I have been able to test/use during my last 3 years.
 
 ## Programming Languages
 ![My Skills](https://skillicons.dev/icons?i=php,js,python,typescript)
