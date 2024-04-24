@@ -1,6 +1,7 @@
 ## Hi 👋👋👋
 I am a developer interested in digital strategies and UX. 🤠
-\Below you will find some technologies that I have been able to test/use during my last 3 years.
+
+Below you will find some technologies that I have been able to test/use during my last 3 years.
 
 ## Programming Languages
 ![My Skills](https://skillicons.dev/icons?i=php,js,python,typescript)
