@@ -9,7 +9,7 @@ Below you will find some technologies that I have been able to test/use during m
 ## Frontend Development
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,threejs)
 
-## Framework (PHP/JS)
+## Frameworks (PHP/JS)
 ![My Skills](https://skillicons.dev/icons?i=laravel,symfony,vuejs,react&perline=2)
 
 <!--## Backend Development
@@ -21,7 +21,7 @@ Below you will find some technologies that I have been able to test/use during m
 ## Data Visualization
 ![My Skills](https://skillicons.dev/icons?i=d3,chartjs)
 
-## Software
+## Softwares
 ![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,gitlab,blender,unity,notion,vscode,phpstorm)
 
 ## Adobe Creative Suite
