@@ -28,7 +28,7 @@ Below you will find some technologies that I have been able to test/use during m
 ![My Skills](https://skillicons.dev/icons?i=illustrator,ps,ae,xd,lg,premierepro)
 
 ## Other
-![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,npm,yarn,webpack,cypress,nodejs,esbuild)
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,npm,yarn,webpack,webflow,cypress,nodejs)
 
 # GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizardcybob&show_icons=true&locale=en&layout=compact" alt="wizardcybob" />
