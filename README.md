@@ -34,7 +34,7 @@ Below you will find some technologies that I have been able to test/use during m
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizardcybob&show_icons=true&locale=en&layout=compact" alt="wizardcybob" />
 
 # Socials networks
-<a href="https://linkedin.com/in/chloé-jacob-wizardcybob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chloé-jacob-wizardcybob" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chloe-jacob-wizardcybob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chloé-jacob-wizardcybob" height="30" width="40" /></a>
 <a href="https://instagram.com/wizardcybob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wizardcybob" height="30" width="40" /></a>
 <a href="https://www.behance.net/chloejacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="chloejacob" height="30" width="40" /></a>
 <a href="https://discord.gg/wizardcybob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wizardcybob" height="30" width="40" /></a>
