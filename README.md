@@ -22,7 +22,7 @@ Below you will find some technologies that I have been able to test/use during m
 ![My Skills](https://skillicons.dev/icons?i=d3,chartjs)
 
 ## Softwares
-![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,gitlab,blender,unity,notion,vscode,phpstorm)
+![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,gitlab,azure,bitbucket,blender,unity,notion,vscode,phpstorm)
 
 ## Adobe Creative Suite
 ![My Skills](https://skillicons.dev/icons?i=illustrator,ps,ae,xd,lg,premierepro)
